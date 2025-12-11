@@ -1,53 +1,63 @@
-| Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C5 | ESP32-C6 | ESP32-C61 | ESP32-H2 | ESP32-H21 | ESP32-H4 | ESP32-P4 | ESP32-S2 | ESP32-S3 | Linux |
-| ----------------- | ----- | -------- | -------- | -------- | -------- | --------- | -------- | --------- | -------- | -------- | -------- | -------- | ----- |
+ESP32 Matrix Sand Clock
+ESP32 firmware simulating a sand clock/hourglass using two 8x8 LED dot matrices. MPU6050 accelerometer detects tilt, moving "sand" grains between matrices with realistic physics and deep sleep power saving.
 
-# Hello World Example
+Features
+Dual 8x8 MAX7219 dot matrix displays arranged corner-to-corner
 
-Starts a FreeRTOS task to print "Hello World".
+MPU6050 motion detection with interrupt-driven deep sleep (~5s inactivity)
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
+RTC memory state persistence across power cycles
 
-## How to use example
+Realistic sand physics with diagonal tilt compensation
 
-Follow detailed instructions provided specifically for this example.
+Corner grain handoff between matrices
 
-Select the instructions depending on Espressif chip installed on your development board:
+Low-power operation with GPIO wakeup
 
-- [ESP32 Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/stable/get-started/index.html)
-- [ESP32-S2 Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html)
+Hardware Setup
+text
+ESP32 connections:
+├── MPU6050 (I2C): SDA=GPIO21, SCL=GPIO22, INT=GPIO0
+├── MAX7219 #1 (SPI, nearest): DIN=GPIO23, CS=GPIO18, CLK=GPIO19
+├── MAX7219 #2 (SPI, farther):  DIN=GPIO13, CS=GPIO5, CLK=GPIO19 (shared)
+└── Physical layout: Matrix1(7,7) touches Matrix2(0,0)
+Software Dependencies
+ESP-IDF v5.x
 
+mpu_6050.h - MPU6050 driver (I2C motion interrupt)
 
-## Example folder contents
+dot_matrix.h - Dual MAX7219 driver (max7219_write_to_displays())
 
-The project **hello_world** contains one source file in C language [hello_world_main.c](main/hello_world_main.c). The file is located in folder [main](main).
+FreeRTOS, SPI, I2C, esp_timer, deep sleep APIs
 
-ESP-IDF projects are built using CMake. The project build configuration is contained in `CMakeLists.txt` files that provide set of directives and instructions describing the project's source files and targets (executable, library, or both).
+Physics Simulation
+Sand grains move based on accelerometer vector:
 
-Below is short explanation of remaining files in the project folder.
+Primary direction from tilt angle ratios
 
-```
-├── CMakeLists.txt
-├── pytest_hello_world.py      Python script used for automated testing
-├── main
-│   ├── CMakeLists.txt
-│   └── hello_world_main.c
-└── README.md                  This is the file you are currently reading
-```
+Collision resolution with side-counting priority
 
-For more information on structure and contents of ESP-IDF projects, please refer to Section [Build System](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/build-system.html) of the ESP-IDF Programming Guide.
+Coordinate rotation for diagonal matrix frame
 
-## Troubleshooting
+Grain transfer at touching corner (1,7)-(2,0)
 
-* Program upload failure
+Power Management
+text
+Inactivity timeout: 5 seconds
+Wake sources: MPU INT (GPIO0 high), timer fallback
+RTC saves: MatrixSand states (128 bytes total)
+Shutdown: MAX7219s powered off before sleep
+Build & Flash
+bash
+idf.py menuconfig  # Verify pins/I2C config
+idf.py build flash monitor
+Initial boot fills Matrix1 with sand (minus 7 corner grains). Tilt to pour between matrices.
 
-    * Hardware connection is not correct: run `idf.py -p PORT monitor`, and reboot your board to see if there are any output logs.
-    * The baud rate for downloading is too high: lower your baud rate in the `menuconfig` menu, and try again.
+Customization
+INACTIVITY_MS: Adjust sleep sensitivity
 
-## Technical support and feedback
+mpu_config_motion_interrupt(1,5): Threshold=1g/20, duration=5*20ms
 
-Please use the following feedback channels:
+DELAY_MS: Physics update rate (200ms default)
 
-* For technical queries, go to the [esp32.com](https://esp32.com/) forum
-* For a feature request or bug report, create a [GitHub issue](https://github.com/espressif/esp-idf/issues)
-
-We will get back to you as soon as possible.
+Matrix rotation: Toggle rotate90_counterclockwise() calls
