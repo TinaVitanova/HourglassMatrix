@@ -23,27 +23,15 @@
 |-----------|-----|------------|
 | **MPU6050** | VCC | 3.3V |
 | | GND | GND |
-| | SDA | **GPIO21** |
-| | SCL | **GPIO22** |
+| | SDA | **GPIO8** |
+| | SCL | **GPIO9** |
 | | INT | **GPIO0** (wakeup) |
-| **MAX7219 #1** (Upper) | DIN | **GPIO23** |
-| | CS | **GPIO18** |
-| | CLK | **GPIO19** |
-| **MAX7219 #2** (Lower) | DIN | **GPIO13** |
-| | CS | **GPIO5** |
-| | CLK | **GPIO19** (shared) |
-
-**Physical Layout**: Matrix1(7,7) corner touches Matrix2(0,0) corner
-
-graph LR
-ESP32[ESP32] --> I2C[GPIO21/22
-MPU6050]
-ESP32 --> SPI1[SPI GPIO23/18/19
-MAX7219 #1]
-ESP32 --> SPI2[SPI GPIO13/5/19
-MAX7219 #2]
-MPU6050 -->|INT| GPIO0[GPIO0 Wakeup]
-
+| **MAX7219 #1** (Upper) | DIN | **GPIO5** |
+| | CS | **GPIO2** |
+| | CLK | **GPIO4** |
+| **MAX7219 #2** (Lower) | DIN | DOUT of #1 |
+| | CS | CS OUT of #1 |
+| | CLK | CLK OUT of #1 |
 
 
 ## 🔬 Physics Engine
