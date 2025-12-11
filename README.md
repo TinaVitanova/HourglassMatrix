@@ -1,63 +1,64 @@
-ESP32 Matrix Sand Clock
-ESP32 firmware simulating a sand clock/hourglass using two 8x8 LED dot matrices. MPU6050 accelerometer detects tilt, moving "sand" grains between matrices with realistic physics and deep sleep power saving.
+# ESP32 Matrix Sand Clock 🕰️
 
-Features
-Dual 8x8 MAX7219 dot matrix displays arranged corner-to-corner
+[![ESP32](https://img.shields.io/badge/ESP32-Sand%20Clock-blue?style=flat-square&logo=espressif)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
+[![ESP-IDF](https://img.shields.io/badge/ESP--IDF-v5.x-green?style=flat-square&logo=esp-idf)](https://docs.espressif.com/projects/esp-idf/en/latest/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
-MPU6050 motion detection with interrupt-driven deep sleep (~5s inactivity)
+**ESP32 firmware simulating a realistic sand clock/hourglass** using **two 8x8 LED dot matrices**. MPU6050 accelerometer detects tilt, moving "sand" grains between matrices with physics simulation, corner handoff, and ultra-low-power deep sleep.
 
-RTC memory state persistence across power cycles
+> Tilt to pour sand between matrices! Perfect for electronics teaching demos 🎓
 
-Realistic sand physics with diagonal tilt compensation
+## ✨ Features
 
-Corner grain handoff between matrices
+- **Dual 8x8 MAX7219** dot matrices (corner-to-corner layout)
+- **MPU6050 motion detection** with interrupt-driven deep sleep (~5s inactivity)
+- **RTC memory persistence** - state survives power cycles
+- **Realistic physics**: diagonal tilt compensation, collision resolution
+- **Corner grain handoff** between touching matrices
+- **Ultra-low power**: GPIO wakeup, MAX7219 shutdown
 
-Low-power operation with GPIO wakeup
+## 🛠️ Hardware Connections
 
-Hardware Setup
-text
-ESP32 connections:
-├── MPU6050 (I2C): SDA=GPIO21, SCL=GPIO22, INT=GPIO0
-├── MAX7219 #1 (SPI, nearest): DIN=GPIO23, CS=GPIO18, CLK=GPIO19
-├── MAX7219 #2 (SPI, farther):  DIN=GPIO13, CS=GPIO5, CLK=GPIO19 (shared)
-└── Physical layout: Matrix1(7,7) touches Matrix2(0,0)
-Software Dependencies
-ESP-IDF v5.x
+| Component | Pin | ESP32 GPIO |
+|-----------|-----|------------|
+| **MPU6050** | VCC | 3.3V |
+| | GND | GND |
+| | SDA | **GPIO21** |
+| | SCL | **GPIO22** |
+| | INT | **GPIO0** (wakeup) |
+| **MAX7219 #1** (Upper) | DIN | **GPIO23** |
+| | CS | **GPIO18** |
+| | CLK | **GPIO19** |
+| **MAX7219 #2** (Lower) | DIN | **GPIO13** |
+| | CS | **GPIO5** |
+| | CLK | **GPIO19** (shared) |
 
-mpu_6050.h - MPU6050 driver (I2C motion interrupt)
+**Physical Layout**: Matrix1(7,7) corner touches Matrix2(0,0) corner
 
-dot_matrix.h - Dual MAX7219 driver (max7219_write_to_displays())
+graph LR
+ESP32[ESP32] --> I2C[GPIO21/22
+MPU6050]
+ESP32 --> SPI1[SPI GPIO23/18/19
+MAX7219 #1]
+ESP32 --> SPI2[SPI GPIO13/5/19
+MAX7219 #2]
+MPU6050 -->|INT| GPIO0[GPIO0 Wakeup]
 
-FreeRTOS, SPI, I2C, esp_timer, deep sleep APIs
 
-Physics Simulation
-Sand grains move based on accelerometer vector:
 
-Primary direction from tilt angle ratios
+## 🔬 Physics Engine
 
-Collision resolution with side-counting priority
+1. **Read raw accel** `(axi, ayi, azi)`
+2. **Rotate to diagonal frame**: `xx=-az-ax, yy=-az+ax, zz=ay`
+3. **Compute move direction** from tilt ratios `tan(22.5°/67.5°)`
+4. **Collision resolution**: side-count priority `(left≥right → X-axis)`
+5. **Corner handoff**: grain transfers at touching corner
+6. **Update matrices** → MAX7219
 
-Coordinate rotation for diagonal matrix frame
+## ⚡ Power Management
 
-Grain transfer at touching corner (1,7)-(2,0)
-
-Power Management
-text
-Inactivity timeout: 5 seconds
-Wake sources: MPU INT (GPIO0 high), timer fallback
-RTC saves: MatrixSand states (128 bytes total)
-Shutdown: MAX7219s powered off before sleep
-Build & Flash
-bash
-idf.py menuconfig  # Verify pins/I2C config
-idf.py build flash monitor
-Initial boot fills Matrix1 with sand (minus 7 corner grains). Tilt to pour between matrices.
-
-Customization
-INACTIVITY_MS: Adjust sleep sensitivity
-
-mpu_config_motion_interrupt(1,5): Threshold=1g/20, duration=5*20ms
-
-DELAY_MS: Physics update rate (200ms default)
-
-Matrix rotation: Toggle rotate90_counterclockwise() calls
+| State | Trigger | Action |
+|-------|---------|--------|
+| **Active** | Motion detected | Physics + display update |
+| **Sleep** | 5s inactivity | Save RTC, MAX7219 off, deep sleep |
+| **Wake** | MPU INT (GPIO0 HIGH) | Restore RTC, resume physics |
