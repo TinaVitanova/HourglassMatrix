@@ -22,11 +22,11 @@
 |-----------|-----|------------|
 | **MPU6050** | VCC | 3.3V |
 | | GND | GND |
-| | SDA | **GPIO8** |
-| | SCL | **GPIO9** |
+| | SDA | **GPIO10** |
+| | SCL | **GPIO8** |
 | | INT | **GPIO0** (wakeup) |
-| **MAX7219 #1** (Upper) | DIN | **GPIO5** |
-| | CS | **GPIO2** |
+| **MAX7219 #1** (Upper) | DIN | **GPIO6** |
+| | CS | **GPIO3** |
 | | CLK | **GPIO4** |
 | **MAX7219 #2** (Lower) | DIN | DOUT of #1 |
 | | CS | CS OUT of #1 |
