@@ -2,8 +2,8 @@
 #include "esp_check.h"
 
 #define I2C_PORT I2C_NUM_0
-#define I2C_SDA 8
-#define I2C_SCL 9
+#define I2C_SDA 10
+#define I2C_SCL 8
 #define I2C_FREQ_HZ 400000
 
 #define MPU_ADDR 0x68

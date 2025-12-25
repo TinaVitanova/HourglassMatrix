@@ -18,7 +18,7 @@ RTC_DATA_ATTR static MatrixSand saved_sand1;
 RTC_DATA_ATTR static MatrixSand saved_sand2;
 RTC_DATA_ATTR static bool has_saved_state = false;
 
-#define DELAY_MS 200
+#define DELAY_MS 1000
 
 // GPIO0..GPIO5
 #define MPU_INT_GPIO         GPIO_NUM_0
@@ -211,7 +211,7 @@ void app_main(void) {
 
     // Configure MPU motion interrupt (tune as needed)
     // Example: threshold=20 (~40 mg), duration=40 ms
-    mpu_config_motion_interrupt(1, 5);
+    mpu_config_motion_interrupt(3, 5);
 
     // Print the wakeup reason
     esp_sleep_wakeup_cause_t wakeup_cause = esp_sleep_get_wakeup_cause();
@@ -226,10 +226,8 @@ void app_main(void) {
             ESP_LOGI("TEST", "Wakeup caused by %d", wakeup_cause);
             break;
     }
-        printf("Normal erhtsrrhjyr, starting deep sleep cycle 2 \n");
-            vTaskDelay(pdMS_TO_TICKS(20000)); // Wait before measuring
         printf("Normal boot, starting deep sleep cycle 2 \n");
- fflush(stdout);
+        fflush(stdout);
 
 
     // Two 8x8 matrices, arranged corner-to-corner:
@@ -280,8 +278,8 @@ void app_main(void) {
         // Rotate coords to diagonal frame:
         // xx = -ax - ay, yy = -ax + ay, zz = az
         float ax = (float)axi, ay = (float)ayi, az = (float)azi;
-        float xx = -az - ax;
-        float yy = -az + ax;
+        float yy = -az - ax;
+        float xx = ax - az;
         float zz = ay;
 
         // Corner handoff rule

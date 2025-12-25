@@ -5,9 +5,9 @@
 #include "driver/spi_master.h"
 #include "esp_check.h"
 
-#define MOSI_PIN 5
+#define MOSI_PIN 6
 #define SCLK_PIN 4
-#define CS_PIN 2
+#define CS_PIN 3
 
 #define MAX7219_REG_DIGIT0 0x01
 #define MAX7219_REG_DECODE 0x09
@@ -64,7 +64,7 @@ void max7219_init(void) {
     max7219_broadcast(MAX7219_REG_SHUTDOWN, 0x01);
     max7219_broadcast(MAX7219_REG_DECODE, 0x00);
     max7219_broadcast(MAX7219_REG_SCANLIMIT, 0x07);
-    max7219_broadcast(MAX7219_REG_INTENSITY, 0x08);
+    max7219_broadcast(MAX7219_REG_INTENSITY, 0x04);
 
     max7219_clear();
 }

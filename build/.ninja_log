@@ -1066,3 +1066,692 @@
 4552	4776	7871481517015978	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
 4776	4846	7871481517065959	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
 4776	4846	7871481517065959	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+122	305	7882920937061501	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+122	305	7882920937061501	bootloader/bootloader.elf	b9e027d1f840e419
+122	305	7882920937061501	bootloader/bootloader.bin	b9e027d1f840e419
+122	305	7882920937061501	bootloader/bootloader.map	b9e027d1f840e419
+122	305	7882920937061501	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+122	305	7882920937061501	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+122	305	7882920937061501	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+122	305	7882920937061501	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+305	331	7882920938895716	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+305	331	7882920938895716	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+331	383	7882920939629554	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+331	383	7882920939629554	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+331	383	7882920939629554	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+331	383	7882920939629554	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+118	794	7882920937020831	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+795	997	7882920943781375	esp-idf/main/libmain.a	3f8bad68aa0adb09
+997	6529	7882921000911193	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+997	6529	7882921000911193	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+6529	7303	7882921001115502	HourglassMatrix.elf	b1a8951047a7e12f
+7304	7523	7882921011032208	.bin_timestamp	76d20b7ca0295376
+7304	7523	7882921011032208	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+7523	7590	7882921011081189	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+7523	7590	7882921011081189	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+61	124	7882921838295297	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+61	124	7882921838295297	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+55	167	7882921838231981	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+55	167	7882921838231981	bootloader/bootloader.elf	b9e027d1f840e419
+55	167	7882921838231981	bootloader/bootloader.bin	b9e027d1f840e419
+55	167	7882921838231981	bootloader/bootloader.map	b9e027d1f840e419
+55	167	7882921838231981	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+55	167	7882921838231981	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+55	167	7882921838231981	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+55	167	7882921838231981	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+167	189	7882921839316099	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+167	189	7882921839316099	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+189	247	7882921840123675	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+189	247	7882921840123675	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+189	247	7882921840123675	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+189	247	7882921840123675	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+59	120	7882963717972618	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+59	120	7882963717972618	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+51	169	7882963717895931	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+51	169	7882963717895931	bootloader/bootloader.elf	b9e027d1f840e419
+51	169	7882963717895931	bootloader/bootloader.bin	b9e027d1f840e419
+51	169	7882963717895931	bootloader/bootloader.map	b9e027d1f840e419
+51	169	7882963717895931	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+51	169	7882963717895931	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+51	169	7882963717895931	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+51	169	7882963717895931	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+170	193	7882963718965278	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+170	193	7882963718965278	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+193	243	7882963719768540	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+193	243	7882963719768540	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+193	243	7882963719768540	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+193	243	7882963719768540	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+55	120	7882965508990158	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+55	120	7882965508990158	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+49	167	7882965508940116	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+49	167	7882965508940116	bootloader/bootloader.elf	b9e027d1f840e419
+49	167	7882965508940116	bootloader/bootloader.bin	b9e027d1f840e419
+49	167	7882965508940116	bootloader/bootloader.map	b9e027d1f840e419
+49	167	7882965508940116	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+49	167	7882965508940116	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+49	167	7882965508940116	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+49	167	7882965508940116	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+167	189	7882965510089341	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+167	189	7882965510089341	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+189	237	7882965510743316	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+189	237	7882965510743316	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+189	237	7882965510743316	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+189	237	7882965510743316	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+54	118	7882967433449974	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+54	118	7882967433449974	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+48	162	7882967433389919	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+48	162	7882967433389919	bootloader/bootloader.elf	b9e027d1f840e419
+48	162	7882967433389919	bootloader/bootloader.bin	b9e027d1f840e419
+48	162	7882967433389919	bootloader/bootloader.map	b9e027d1f840e419
+48	162	7882967433389919	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+48	162	7882967433389919	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+48	162	7882967433389919	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+48	162	7882967433389919	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+162	186	7882967434462158	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+162	186	7882967434462158	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+186	235	7882967435231828	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+186	235	7882967435231828	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+186	235	7882967435231828	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+186	235	7882967435231828	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+65	125	7883055672661141	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+65	125	7883055672661141	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+57	185	7883055672589416	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+57	185	7883055672589416	bootloader/bootloader.elf	b9e027d1f840e419
+57	185	7883055672589416	bootloader/bootloader.bin	b9e027d1f840e419
+57	185	7883055672589416	bootloader/bootloader.map	b9e027d1f840e419
+57	185	7883055672589416	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+57	185	7883055672589416	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+57	185	7883055672589416	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+57	185	7883055672589416	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+186	212	7883055673836926	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+186	212	7883055673836926	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+212	262	7883055674588075	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+212	262	7883055674588075	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+212	262	7883055674588075	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+212	262	7883055674588075	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+52	168	7883060278911500	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+52	168	7883060278911500	bootloader/bootloader.elf	b9e027d1f840e419
+52	168	7883060278911500	bootloader/bootloader.bin	b9e027d1f840e419
+52	168	7883060278911500	bootloader/bootloader.map	b9e027d1f840e419
+52	168	7883060278911500	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+52	168	7883060278911500	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+52	168	7883060278911500	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+52	168	7883060278911500	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+48	186	7883060278878986	esp-idf/main/CMakeFiles/__idf_main.dir/mpu_6050.c.obj	8f2052bebcba8507
+168	196	7883060280068430	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+168	196	7883060280068430	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+187	240	7883060280260453	esp-idf/main/libmain.a	3f8bad68aa0adb09
+196	248	7883060280826245	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+196	248	7883060280826245	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+196	248	7883060280826245	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+196	248	7883060280826245	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+240	3968	7883060317772175	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+240	3968	7883060317772175	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+3968	4260	7883060318073569	HourglassMatrix.elf	b1a8951047a7e12f
+4260	4470	7883060323044541	.bin_timestamp	76d20b7ca0295376
+4260	4470	7883060323044541	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4470	4566	7883060323094949	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4470	4566	7883060323094949	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+75	214	7883060791032185	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+75	214	7883060791032185	bootloader/bootloader.elf	b9e027d1f840e419
+75	214	7883060791032185	bootloader/bootloader.bin	b9e027d1f840e419
+75	214	7883060791032185	bootloader/bootloader.map	b9e027d1f840e419
+75	214	7883060791032185	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+75	214	7883060791032185	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+75	214	7883060791032185	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+75	214	7883060791032185	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+69	220	7883060790966961	esp-idf/main/CMakeFiles/__idf_main.dir/mpu_6050.c.obj	8f2052bebcba8507
+215	249	7883060792426275	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+215	249	7883060792426275	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+221	280	7883060792492290	esp-idf/main/libmain.a	3f8bad68aa0adb09
+249	304	7883060793280343	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+249	304	7883060793280343	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+249	304	7883060793280343	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+249	304	7883060793280343	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+280	4301	7883060832940305	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+280	4301	7883060832940305	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4302	4603	7883060833302024	HourglassMatrix.elf	b1a8951047a7e12f
+4603	4826	7883060838502166	.bin_timestamp	76d20b7ca0295376
+4603	4826	7883060838502166	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4826	4896	7883060838551539	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4826	4896	7883060838551539	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+67	190	7883061221886373	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+67	190	7883061221886373	bootloader/bootloader.elf	b9e027d1f840e419
+67	190	7883061221886373	bootloader/bootloader.bin	b9e027d1f840e419
+67	190	7883061221886373	bootloader/bootloader.map	b9e027d1f840e419
+67	190	7883061221886373	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+67	190	7883061221886373	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+67	190	7883061221886373	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+67	190	7883061221886373	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+61	215	7883061221836389	esp-idf/main/CMakeFiles/__idf_main.dir/dot_matrix.c.obj	9dd9a16a44156a04
+190	221	7883061223130260	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+190	221	7883061223130260	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+216	274	7883061223376194	esp-idf/main/libmain.a	3f8bad68aa0adb09
+221	280	7883061223940528	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+221	280	7883061223940528	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+221	280	7883061223940528	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+221	280	7883061223940528	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+274	4299	7883061263915501	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+274	4299	7883061263915501	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4299	4596	7883061264212339	HourglassMatrix.elf	b1a8951047a7e12f
+4596	4818	7883061269357159	.bin_timestamp	76d20b7ca0295376
+4596	4818	7883061269357159	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4818	4885	7883061269401373	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4818	4885	7883061269401373	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	142	7883061338040328	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	142	7883061338040328	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+63	193	7883061337961095	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+63	193	7883061337961095	bootloader/bootloader.elf	b9e027d1f840e419
+63	193	7883061337961095	bootloader/bootloader.bin	b9e027d1f840e419
+63	193	7883061337961095	bootloader/bootloader.map	b9e027d1f840e419
+63	193	7883061337961095	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+63	193	7883061337961095	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+63	193	7883061337961095	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+63	193	7883061337961095	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+193	221	7883061339261404	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+193	221	7883061339261404	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+221	275	7883061340027616	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+221	275	7883061340027616	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+221	275	7883061340027616	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+221	275	7883061340027616	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+68	142	7883061422368060	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+68	142	7883061422368060	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+62	186	7883061422293517	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+62	186	7883061422293517	bootloader/bootloader.elf	b9e027d1f840e419
+62	186	7883061422293517	bootloader/bootloader.bin	b9e027d1f840e419
+62	186	7883061422293517	bootloader/bootloader.map	b9e027d1f840e419
+62	186	7883061422293517	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+62	186	7883061422293517	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+62	186	7883061422293517	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+62	186	7883061422293517	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+186	213	7883061423543413	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+186	213	7883061423543413	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+214	266	7883061424303891	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+214	266	7883061424303891	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+214	266	7883061424303891	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+214	266	7883061424303891	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+64	139	7883061557640844	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+64	139	7883061557640844	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+56	182	7883061557569480	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+56	182	7883061557569480	bootloader/bootloader.elf	b9e027d1f840e419
+56	182	7883061557569480	bootloader/bootloader.bin	b9e027d1f840e419
+56	182	7883061557569480	bootloader/bootloader.map	b9e027d1f840e419
+56	182	7883061557569480	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+56	182	7883061557569480	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+56	182	7883061557569480	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+56	182	7883061557569480	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+182	208	7883061558825926	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+182	208	7883061558825926	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+208	265	7883061559617006	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+208	265	7883061559617006	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+208	265	7883061559617006	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+208	265	7883061559617006	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+56	215	7883062398424148	esp-idf/main/CMakeFiles/__idf_main.dir/dot_matrix.c.obj	9dd9a16a44156a04
+61	220	7883062398481746	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+61	220	7883062398481746	bootloader/bootloader.elf	b9e027d1f840e419
+61	220	7883062398481746	bootloader/bootloader.bin	b9e027d1f840e419
+61	220	7883062398481746	bootloader/bootloader.map	b9e027d1f840e419
+61	220	7883062398481746	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+61	220	7883062398481746	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+61	220	7883062398481746	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+61	220	7883062398481746	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+220	247	7883062400072682	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+220	247	7883062400072682	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+215	272	7883062400018402	esp-idf/main/libmain.a	3f8bad68aa0adb09
+247	324	7883062400896085	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+247	324	7883062400896085	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+247	324	7883062400896085	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+247	324	7883062400896085	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+272	4285	7883062440335487	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+272	4285	7883062440335487	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4285	4625	7883062440719133	HourglassMatrix.elf	b1a8951047a7e12f
+4625	4845	7883062446270491	.bin_timestamp	76d20b7ca0295376
+4625	4845	7883062446270491	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4845	4912	7883062446321846	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4845	4912	7883062446321846	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+78	226	7883063550182399	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+78	226	7883063550182399	bootloader/bootloader.elf	b9e027d1f840e419
+78	226	7883063550182399	bootloader/bootloader.bin	b9e027d1f840e419
+78	226	7883063550182399	bootloader/bootloader.map	b9e027d1f840e419
+78	226	7883063550182399	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+78	226	7883063550182399	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+78	226	7883063550182399	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+78	226	7883063550182399	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+73	241	7883063550135045	esp-idf/main/CMakeFiles/__idf_main.dir/dot_matrix.c.obj	9dd9a16a44156a04
+226	255	7883063551668050	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+226	255	7883063551668050	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+241	308	7883063551818491	esp-idf/main/libmain.a	3f8bad68aa0adb09
+255	316	7883063552518530	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+255	316	7883063552518530	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+255	316	7883063552518530	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+255	316	7883063552518530	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+308	4470	7883063593770839	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+308	4470	7883063593770839	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4470	4771	7883063594101535	HourglassMatrix.elf	b1a8951047a7e12f
+4771	4996	7883063599314390	.bin_timestamp	76d20b7ca0295376
+4771	4996	7883063599314390	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4997	5070	7883063599361565	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4997	5070	7883063599361565	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+64	189	7883064124383741	esp-idf/main/CMakeFiles/__idf_main.dir/dot_matrix.c.obj	9dd9a16a44156a04
+70	206	7883064124444279	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+70	206	7883064124444279	bootloader/bootloader.elf	b9e027d1f840e419
+70	206	7883064124444279	bootloader/bootloader.bin	b9e027d1f840e419
+70	206	7883064124444279	bootloader/bootloader.map	b9e027d1f840e419
+70	206	7883064124444279	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+70	206	7883064124444279	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+70	206	7883064124444279	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+70	206	7883064124444279	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+206	246	7883064125800276	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+206	246	7883064125800276	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+189	258	7883064125634734	esp-idf/main/libmain.a	3f8bad68aa0adb09
+246	300	7883064126682711	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+246	300	7883064126682711	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+246	300	7883064126682711	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+246	300	7883064126682711	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+258	4200	7883064165433388	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+258	4200	7883064165433388	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4200	4490	7883064165744062	HourglassMatrix.elf	b1a8951047a7e12f
+4490	4708	7883064170782339	.bin_timestamp	76d20b7ca0295376
+4490	4708	7883064170782339	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4708	4780	7883064170823841	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4708	4780	7883064170823841	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	252	7883065180062896	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+76	259	7883065180115356	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+76	259	7883065180115356	bootloader/bootloader.elf	b9e027d1f840e419
+76	259	7883065180115356	bootloader/bootloader.bin	b9e027d1f840e419
+76	259	7883065180115356	bootloader/bootloader.map	b9e027d1f840e419
+76	259	7883065180115356	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+76	259	7883065180115356	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+76	259	7883065180115356	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+76	259	7883065180115356	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+260	284	7883065181947408	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+260	284	7883065181947408	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+252	312	7883065181879079	esp-idf/main/libmain.a	3f8bad68aa0adb09
+284	344	7883065182729550	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+284	344	7883065182729550	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+284	344	7883065182729550	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+284	344	7883065182729550	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+312	4267	7883065221686253	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+312	4267	7883065221686253	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4268	4561	7883065222029478	HourglassMatrix.elf	b1a8951047a7e12f
+4561	4781	7883065227022148	.bin_timestamp	76d20b7ca0295376
+4561	4781	7883065227022148	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4781	4852	7883065227169759	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4781	4852	7883065227169759	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+73	205	7883066507821397	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+73	205	7883066507821397	bootloader/bootloader.elf	b9e027d1f840e419
+73	205	7883066507821397	bootloader/bootloader.bin	b9e027d1f840e419
+73	205	7883066507821397	bootloader/bootloader.map	b9e027d1f840e419
+73	205	7883066507821397	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+73	205	7883066507821397	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+73	205	7883066507821397	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+73	205	7883066507821397	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+68	254	7883066507771439	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+205	261	7883066509146586	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+205	261	7883066509146586	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+255	310	7883066509638996	esp-idf/main/libmain.a	3f8bad68aa0adb09
+261	315	7883066510187527	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+261	315	7883066510187527	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+261	315	7883066510187527	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+261	315	7883066510187527	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+310	4254	7883066549329141	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+310	4254	7883066549329141	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4254	4548	7883066549631427	HourglassMatrix.elf	b1a8951047a7e12f
+4548	4767	7883066554716281	.bin_timestamp	76d20b7ca0295376
+4548	4767	7883066554716281	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4767	4835	7883066554762575	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4767	4835	7883066554762575	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	221	7883067221537360	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	221	7883067221537360	bootloader/bootloader.elf	b9e027d1f840e419
+71	221	7883067221537360	bootloader/bootloader.bin	b9e027d1f840e419
+71	221	7883067221537360	bootloader/bootloader.map	b9e027d1f840e419
+71	221	7883067221537360	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	221	7883067221537360	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+71	221	7883067221537360	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+71	221	7883067221537360	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+65	254	7883067221487967	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+221	260	7883067223051077	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+221	260	7883067223051077	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+254	313	7883067223377227	esp-idf/main/libmain.a	3f8bad68aa0adb09
+260	319	7883067223963741	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+260	319	7883067223963741	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+260	319	7883067223963741	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+260	319	7883067223963741	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+313	4387	7883067264326110	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+313	4387	7883067264326110	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4387	4768	7883067264699980	HourglassMatrix.elf	b1a8951047a7e12f
+4768	4998	7883067270692399	.bin_timestamp	76d20b7ca0295376
+4768	4998	7883067270692399	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4998	5070	7883067270815862	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4998	5070	7883067270815862	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+72	216	7883068823120965	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+72	216	7883068823120965	bootloader/bootloader.elf	b9e027d1f840e419
+72	216	7883068823120965	bootloader/bootloader.bin	b9e027d1f840e419
+72	216	7883068823120965	bootloader/bootloader.map	b9e027d1f840e419
+72	216	7883068823120965	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+72	216	7883068823120965	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+72	216	7883068823120965	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+72	216	7883068823120965	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+68	252	7883068823082583	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+217	257	7883068824570052	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+217	257	7883068824570052	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+252	308	7883068824918282	esp-idf/main/libmain.a	3f8bad68aa0adb09
+257	317	7883068825477602	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+257	317	7883068825477602	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+257	317	7883068825477602	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+257	317	7883068825477602	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+308	4282	7883068864911437	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+308	4282	7883068864911437	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4282	4577	7883068865218030	HourglassMatrix.elf	b1a8951047a7e12f
+4578	4794	7883068870303096	.bin_timestamp	76d20b7ca0295376
+4578	4794	7883068870303096	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4794	4862	7883068870341607	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4794	4862	7883068870341607	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+81	170	7883068949899963	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+81	170	7883068949899963	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	221	7883068949797701	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	221	7883068949797701	bootloader/bootloader.elf	b9e027d1f840e419
+71	221	7883068949797701	bootloader/bootloader.bin	b9e027d1f840e419
+71	221	7883068949797701	bootloader/bootloader.map	b9e027d1f840e419
+71	221	7883068949797701	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	221	7883068949797701	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+71	221	7883068949797701	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+71	221	7883068949797701	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+221	247	7883068951291058	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+221	247	7883068951291058	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+247	301	7883068952051145	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+247	301	7883068952051145	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+247	301	7883068952051145	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+247	301	7883068952051145	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+66	224	7883069572490181	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+66	224	7883069572490181	bootloader/bootloader.elf	b9e027d1f840e419
+66	224	7883069572490181	bootloader/bootloader.bin	b9e027d1f840e419
+66	224	7883069572490181	bootloader/bootloader.map	b9e027d1f840e419
+66	224	7883069572490181	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+66	224	7883069572490181	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+66	224	7883069572490181	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+66	224	7883069572490181	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+60	238	7883069572435014	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+224	250	7883069574080884	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+224	250	7883069574080884	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+239	304	7883069574221058	esp-idf/main/libmain.a	3f8bad68aa0adb09
+250	319	7883069574968901	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+250	319	7883069574968901	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+250	319	7883069574968901	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+250	319	7883069574968901	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+304	4317	7883069614692097	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+304	4317	7883069614692097	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4317	4611	7883069615003667	HourglassMatrix.elf	b1a8951047a7e12f
+4611	4837	7883069620148015	.bin_timestamp	76d20b7ca0295376
+4611	4837	7883069620148015	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4838	4903	7883069620210424	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4838	4903	7883069620210424	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+70	214	7883070109816831	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+70	214	7883070109816831	bootloader/bootloader.elf	b9e027d1f840e419
+70	214	7883070109816831	bootloader/bootloader.bin	b9e027d1f840e419
+70	214	7883070109816831	bootloader/bootloader.map	b9e027d1f840e419
+70	214	7883070109816831	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+70	214	7883070109816831	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+70	214	7883070109816831	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+70	214	7883070109816831	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+65	234	7883070109761505	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+214	256	7883070111254718	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+214	256	7883070111254718	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+235	296	7883070111462014	esp-idf/main/libmain.a	3f8bad68aa0adb09
+256	323	7883070112301162	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+256	323	7883070112301162	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+256	323	7883070112301162	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+256	323	7883070112301162	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+296	4289	7883070151710856	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+296	4289	7883070151710856	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4289	4569	7883070152011622	HourglassMatrix.elf	b1a8951047a7e12f
+4570	4792	7883070156983503	.bin_timestamp	76d20b7ca0295376
+4570	4792	7883070156983503	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4792	4865	7883070157033626	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4792	4865	7883070157033626	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+79	146	7883070389969711	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+79	146	7883070389969711	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	221	7883070389899676	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	221	7883070389899676	bootloader/bootloader.elf	b9e027d1f840e419
+71	221	7883070389899676	bootloader/bootloader.bin	b9e027d1f840e419
+71	221	7883070389899676	bootloader/bootloader.map	b9e027d1f840e419
+71	221	7883070389899676	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	221	7883070389899676	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+71	221	7883070389899676	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+71	221	7883070389899676	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+222	247	7883070391392470	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+222	247	7883070391392470	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+247	303	7883070392174755	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+247	303	7883070392174755	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+247	303	7883070392174755	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+247	303	7883070392174755	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+64	194	7883070863356230	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+64	194	7883070863356230	bootloader/bootloader.elf	b9e027d1f840e419
+64	194	7883070863356230	bootloader/bootloader.bin	b9e027d1f840e419
+64	194	7883070863356230	bootloader/bootloader.map	b9e027d1f840e419
+64	194	7883070863356230	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+64	194	7883070863356230	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+64	194	7883070863356230	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+64	194	7883070863356230	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+195	227	7883070864667553	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+195	227	7883070864667553	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+59	240	7883070863306242	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+227	284	7883070865519592	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+227	284	7883070865519592	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+227	284	7883070865519592	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+227	284	7883070865519592	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+240	298	7883070865121022	esp-idf/main/libmain.a	3f8bad68aa0adb09
+298	4262	7883070905084508	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+298	4262	7883070905084508	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4262	4554	7883070905340670	HourglassMatrix.elf	b1a8951047a7e12f
+4554	4778	7883070910461502	.bin_timestamp	76d20b7ca0295376
+4554	4778	7883070910461502	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4778	4847	7883070910511335	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4778	4847	7883070910511335	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+74	246	7883071335443144	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+74	246	7883071335443144	bootloader/bootloader.elf	b9e027d1f840e419
+74	246	7883071335443144	bootloader/bootloader.bin	b9e027d1f840e419
+74	246	7883071335443144	bootloader/bootloader.map	b9e027d1f840e419
+74	246	7883071335443144	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+74	246	7883071335443144	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+74	246	7883071335443144	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+74	246	7883071335443144	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+68	257	7883071335383115	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+246	277	7883071337160810	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+246	277	7883071337160810	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+258	318	7883071337273931	esp-idf/main/libmain.a	3f8bad68aa0adb09
+277	336	7883071338017357	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+277	336	7883071338017357	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+277	336	7883071338017357	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+277	336	7883071338017357	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+318	4345	7883071377822100	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+318	4345	7883071377822100	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4345	4639	7883071378145684	HourglassMatrix.elf	b1a8951047a7e12f
+4639	4855	7883071383210806	.bin_timestamp	76d20b7ca0295376
+4639	4855	7883071383210806	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4855	4923	7883071383255820	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4855	4923	7883071383255820	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+80	218	7883071906120061	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+80	218	7883071906120061	bootloader/bootloader.elf	b9e027d1f840e419
+80	218	7883071906120061	bootloader/bootloader.bin	b9e027d1f840e419
+80	218	7883071906120061	bootloader/bootloader.map	b9e027d1f840e419
+80	218	7883071906120061	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+80	218	7883071906120061	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+80	218	7883071906120061	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+80	218	7883071906120061	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+219	269	7883071907513382	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+219	269	7883071907513382	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+75	287	7883071906074387	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+269	353	7883071908538335	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+269	353	7883071908538335	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+269	353	7883071908538335	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+269	353	7883071908538335	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+287	356	7883071908185085	esp-idf/main/libmain.a	3f8bad68aa0adb09
+356	4420	7883071949239987	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+356	4420	7883071949239987	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4420	4723	7883071949519021	HourglassMatrix.elf	b1a8951047a7e12f
+4724	4948	7883071954762998	.bin_timestamp	76d20b7ca0295376
+4724	4948	7883071954762998	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4948	5015	7883071954803088	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4948	5015	7883071954803088	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+75	212	7883072464519906	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+75	212	7883072464519906	bootloader/bootloader.elf	b9e027d1f840e419
+75	212	7883072464519906	bootloader/bootloader.bin	b9e027d1f840e419
+75	212	7883072464519906	bootloader/bootloader.map	b9e027d1f840e419
+75	212	7883072464519906	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+75	212	7883072464519906	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+75	212	7883072464519906	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+75	212	7883072464519906	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+212	257	7883072465899923	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+212	257	7883072465899923	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+69	263	7883072464459450	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+257	314	7883072466868652	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+257	314	7883072466868652	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+257	314	7883072466868652	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+257	314	7883072466868652	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+264	319	7883072466406478	esp-idf/main/libmain.a	3f8bad68aa0adb09
+319	4299	7883072506460626	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+319	4299	7883072506460626	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4299	4607	7883072506761259	HourglassMatrix.elf	b1a8951047a7e12f
+4607	4822	7883072511959341	.bin_timestamp	76d20b7ca0295376
+4607	4822	7883072511959341	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4822	4892	7883072511994576	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4822	4892	7883072511994576	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+77	291	7883073143100967	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+77	291	7883073143100967	bootloader/bootloader.elf	b9e027d1f840e419
+77	291	7883073143100967	bootloader/bootloader.bin	b9e027d1f840e419
+77	291	7883073143100967	bootloader/bootloader.map	b9e027d1f840e419
+77	291	7883073143100967	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+77	291	7883073143100967	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+77	291	7883073143100967	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+77	291	7883073143100967	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+73	297	7883073143068258	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+292	318	7883073145251492	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+292	318	7883073145251492	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+298	357	7883073145312988	esp-idf/main/libmain.a	3f8bad68aa0adb09
+318	392	7883073146076721	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+318	392	7883073146076721	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+318	392	7883073146076721	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+318	392	7883073146076721	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+357	4431	7883073186319070	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+357	4431	7883073186319070	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4431	4813	7883073186638162	HourglassMatrix.elf	b1a8951047a7e12f
+4814	5071	7883073192987126	.bin_timestamp	76d20b7ca0295376
+4814	5071	7883073192987126	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+5071	5145	7883073193039234	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+5071	5145	7883073193039234	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+47	208	7883074827084745	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+47	208	7883074827084745	bootloader/bootloader.elf	b9e027d1f840e419
+47	208	7883074827084745	bootloader/bootloader.bin	b9e027d1f840e419
+47	208	7883074827084745	bootloader/bootloader.map	b9e027d1f840e419
+47	208	7883074827084745	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+47	208	7883074827084745	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+47	208	7883074827084745	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+47	208	7883074827084745	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+42	218	7883074827044685	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+208	241	7883074828700110	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+208	241	7883074828700110	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+219	281	7883074828813093	esp-idf/main/libmain.a	3f8bad68aa0adb09
+241	298	7883074829557510	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+241	298	7883074829557510	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+241	298	7883074829557510	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+241	298	7883074829557510	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+281	4248	7883074868823275	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+281	4248	7883074868823275	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4248	4561	7883074869108402	HourglassMatrix.elf	b1a8951047a7e12f
+4561	4779	7883074874369312	.bin_timestamp	76d20b7ca0295376
+4561	4779	7883074874369312	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4779	4849	7883074874412927	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4779	4849	7883074874412927	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+71	199	7883079906441374	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	199	7883079906441374	bootloader/bootloader.elf	b9e027d1f840e419
+71	199	7883079906441374	bootloader/bootloader.bin	b9e027d1f840e419
+71	199	7883079906441374	bootloader/bootloader.map	b9e027d1f840e419
+71	199	7883079906441374	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+71	199	7883079906441374	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+71	199	7883079906441374	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+71	199	7883079906441374	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+64	233	7883079906371384	esp-idf/main/CMakeFiles/__idf_main.dir/dot_matrix.c.obj	9dd9a16a44156a04
+199	239	7883079907719339	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+199	239	7883079907719339	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+234	297	7883079908068623	esp-idf/main/libmain.a	3f8bad68aa0adb09
+239	302	7883079908670251	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+239	302	7883079908670251	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+239	302	7883079908670251	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+239	302	7883079908670251	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+297	4364	7883079949060262	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+297	4364	7883079949060262	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4364	4678	7883079949374099	HourglassMatrix.elf	b1a8951047a7e12f
+4678	4903	7883079954704422	.bin_timestamp	76d20b7ca0295376
+4678	4903	7883079954704422	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+4903	4977	7883079954759859	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+4903	4977	7883079954759859	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+69	277	7883080401100436	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+69	277	7883080401100436	bootloader/bootloader.elf	b9e027d1f840e419
+69	277	7883080401100436	bootloader/bootloader.bin	b9e027d1f840e419
+69	277	7883080401100436	bootloader/bootloader.map	b9e027d1f840e419
+69	277	7883080401100436	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+69	277	7883080401100436	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+69	277	7883080401100436	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+69	277	7883080401100436	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+64	283	7883080401056012	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+277	314	7883080403178975	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+277	314	7883080403178975	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+284	351	7883080403264481	esp-idf/main/libmain.a	3f8bad68aa0adb09
+314	377	7883080404143204	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+314	377	7883080404143204	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+314	377	7883080404143204	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+314	377	7883080404143204	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+351	4494	7883080445039139	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+351	4494	7883080445039139	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4494	4808	7883080445356738	HourglassMatrix.elf	b1a8951047a7e12f
+4808	5037	7883080450735570	.bin_timestamp	76d20b7ca0295376
+4808	5037	7883080450735570	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+5037	5112	7883080450790701	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+5037	5112	7883080450790701	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+73	288	7883081816912533	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+73	288	7883081816912533	bootloader/bootloader.elf	b9e027d1f840e419
+73	288	7883081816912533	bootloader/bootloader.bin	b9e027d1f840e419
+73	288	7883081816912533	bootloader/bootloader.map	b9e027d1f840e419
+73	288	7883081816912533	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+73	288	7883081816912533	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+73	288	7883081816912533	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+73	288	7883081816912533	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+68	299	7883081816868263	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+288	321	7883081819067470	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+288	321	7883081819067470	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+300	364	7883081819187578	esp-idf/main/libmain.a	3f8bad68aa0adb09
+321	382	7883081819943831	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+321	382	7883081819943831	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+321	382	7883081819943831	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+321	382	7883081819943831	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+364	4468	7883081860527651	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+364	4468	7883081860527651	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4468	4793	7883081860865047	HourglassMatrix.elf	b1a8951047a7e12f
+4793	5020	7883081866338087	.bin_timestamp	76d20b7ca0295376
+4793	5020	7883081866338087	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+5021	5095	7883081866390135	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+5021	5095	7883081866390135	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+74	271	7883083407443767	bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+74	271	7883083407443767	bootloader/bootloader.elf	b9e027d1f840e419
+74	271	7883083407443767	bootloader/bootloader.bin	b9e027d1f840e419
+74	271	7883083407443767	bootloader/bootloader.map	b9e027d1f840e419
+74	271	7883083407443767	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	b9e027d1f840e419
+74	271	7883083407443767	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.elf	b9e027d1f840e419
+74	271	7883083407443767	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.bin	b9e027d1f840e419
+74	271	7883083407443767	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader/bootloader.map	b9e027d1f840e419
+69	279	7883083407393683	esp-idf/main/CMakeFiles/__idf_main.dir/hourglass_timer.c.obj	7d02df9118e0f4fb
+271	299	7883083409413243	bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+271	299	7883083409413243	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	83ce83a0fd72c0f
+280	348	7883083409498365	esp-idf/main/libmain.a	3f8bad68aa0adb09
+299	392	7883083410573695	CMakeFiles/bootloader-complete	f4fe6a7c3def483
+299	392	7883083410573695	bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+299	392	7883083410573695	C:/Users/Martina Damjanovska/HourglassMatrix/build/CMakeFiles/bootloader-complete	f4fe6a7c3def483
+299	392	7883083410573695	C:/Users/Martina Damjanovska/HourglassMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	f4fe6a7c3def483
+348	4600	7883083452311540	esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+348	4600	7883083452311540	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esp_system/ld/sections.ld	44562f67ce418ad9
+4600	4922	7883083452707427	HourglassMatrix.elf	b1a8951047a7e12f
+4922	5165	7883083458315279	.bin_timestamp	76d20b7ca0295376
+4922	5165	7883083458315279	C:/Users/Martina Damjanovska/HourglassMatrix/build/.bin_timestamp	76d20b7ca0295376
+5166	5242	7883083458355250	esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
+5166	5242	7883083458355250	C:/Users/Martina Damjanovska/HourglassMatrix/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c47b77a696140da0
